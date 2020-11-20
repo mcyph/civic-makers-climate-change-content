@@ -20,15 +20,18 @@ ISO_OVERRIDES = {
 
 
 def get_world_population():
-    r = pandas.read_csv(base_path / 'data_csv' / 'population_total.csv')
+    df = pandas.read_csv(base_path / 'data_csv' / 'population_total.csv')
     country_codes = [
         ISO_OVERRIDES.get(i.lower()) or
             pycountry.countries.search_fuzzy(i)[0].alpha_2
-        for i in r['country']
+        for i in df['country']
     ]
-    r.index = country_codes
-    return r
+    for col in df:
+        if col.isdigit():
+            df[col] = df[col].astype(int)
+    df.index = country_codes
+    return df
 
 
 if __name__ == '__main__':
-    print(get_world_population().loc['AU']['2100'])
+    print(get_world_population().loc['AU']['2010'])
