@@ -11,8 +11,9 @@ def get_coral_bleaching_temperature_data():
 
     for csv_path in base_path.glob('*.csv'):
         metadata, df = get_headered_csv_dataframe(csv_path)
-        dfs[metadata['STATION']] = (metadata, df)
+        dfs[metadata['STATION']] = df
         metadatas[metadata['STATION']] = metadata
+
 
     return metadatas, dfs
 
