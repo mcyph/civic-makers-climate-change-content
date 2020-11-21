@@ -9,8 +9,7 @@ base_path = Path(realpath(__file__)).parent
 def get_aggregate_ghgs():
     df = pandas.read_csv(
         base_path / 'data_csv' / 'CW_UNFCCC_GHG_Emissions.csv',
-        delimiter='\t',
-        thousands=","
+        delimiter='\t', thousands=","
     )
     df = df[df.country != 'ANNEXI']
     df = df[df.country != 'EU28']
@@ -33,12 +32,12 @@ def get_aggregate_ghgs():
 
 def get_lulucf():
     df = get_aggregate_ghgs()
-    #df = df[df.sector == 'Total GHG emissions excluding LULUCF/LUCF'].append(
-    #    df[df.sector == 'Total GHG emissions without LULUCF']
-    #)
-    df = df[df.sector == 'Total GHG emissions including LULUCF/LUCF'].append(
-        df[df.sector == 'Total GHG emissions with LULUCF']
+    df = df[df.sector == 'Total GHG emissions excluding LULUCF/LUCF'].append(
+        df[df.sector == 'Total GHG emissions without LULUCF']
     )
+    #df = df[df.sector == 'Total GHG emissions including LULUCF/LUCF'].append(
+    #    df[df.sector == 'Total GHG emissions with LULUCF']
+    #)
     df = df.drop(['sector'], axis='columns')
     return df
 

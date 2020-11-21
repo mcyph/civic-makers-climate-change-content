@@ -26,11 +26,21 @@ def process_company(company):
 if __name__ == '__main__':
     out = []
     for donor in donations_made['Donor Name'].unique():
-        closest_asx_company = [(distance(process_company(donor), process_company(company)), donor, company) for company in asx_companies]
+        closest_asx_company = [
+            (distance(process_company(donor), process_company(company)), donor, company)
+            for company in asx_companies
+        ]
+
         closest_asx_company = sorted(closest_asx_company)[0]
-        closest_asx_company = (None, donor, None) if closest_asx_company[0] > 3 else closest_asx_company
-        closest_asx_company += (donations_made.loc[donations_made['Donor Name'] == donor,
-                                                   ['Donor Name', 'Value']].sum()['Value'],)
+        if closest_asx_company[0] > 3:
+            closest_asx_company = (None, donor, None)
+        else:
+            closest_asx_company = closest_asx_company
+
+        closest_asx_company += (
+            donations_made.loc[donations_made['Donor Name'] == donor,
+            ['Donor Name', 'Value']].sum()['Value'],
+        )
         out.append(closest_asx_company)
 
     out.sort(key=lambda x: (-x[-1], x[1]))
