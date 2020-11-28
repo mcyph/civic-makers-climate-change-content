@@ -1,0 +1,1791 @@
+{
+    "id": 2608,
+    "house": "representatives",
+    "name": "Clean Energy (Customs Tariff Amendment) Bill 2012 - Second Reading - Read a second time",
+    "date": "2012-05-30",
+    "number": 8,
+    "clock_time": "7:28 PM",
+    "aye_votes": 69,
+    "no_votes": 66,
+    "possible_turnout": 150,
+    "rebellions": 0,
+    "edited": true,
+    "summary": "The majority voted in favour of a [motion](http://www.openaustralia.org/debates/?id=2012-05-23.8.1) to read the bill a second time, which was moved by Labor MP [Greg Combet](http://publicwhip-rails.openaustraliafoundation.org.au/mp.php?mpn=Greg_Combet&mpc=Charlton&house=representatives).(Read Labor MP Combet's explanation of the bill [here](http://www.openaustralia.org/debates/?id=2012-05-23.8.1). )\n\nThis means that the members agree with the main idea of the bill and can now either discuss it in detail or vote to read the bill a third time without further consideration, which would mean that the bill is passed in the House and can be sent to the Senator for their consideration.\n\n_Background to the bill_\n\nThe [Clean Energy (Customs Tariff Amendment) Bill 2012](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4821) is part of a package of three bills to include non-transport gaseous fuels in the [carbon pricing mechanism](http://en.wikipedia.org/wiki/Carbon_pricing_in_Australia). This would mean that the carbon pricing mechanism would apply to compressed natural gas from 1 July 2012. It would also apply to non-transport liquid petroleum gas and liquefied natural gas from 1 July 2013.\n\nThe two other bills are:\n\n- [Clean Energy Legislation Amendment Bill 2012](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4820);\n- [Clean Energy (Excise Tariff Legislation Amendment) Bill 2012](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4822)\n\nThe carbon pricing mechanism is an emissions trading scheme which will commence on 1 July 2012.(See the Clean Energy Regulator’s [website](http://www.cleanenergyregulator.gov.au/Carbon-Pricing-Mechanism/About-the-Mechanism/Pages/default.aspx) for more information on how it works.)\n\nReferences",
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "id": 3,
+                "person": {
+                    "id": 10004
+                },
+                "first_name": "Dick",
+                "last_name": "Adams",
+                "electorate": "Lyons",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 6,
+                "person": {
+                    "id": 10007
+                },
+                "first_name": "Anthony",
+                "last_name": "Albanese",
+                "electorate": "Grayndler",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 40,
+                "person": {
+                    "id": 10043
+                },
+                "first_name": "Sharon",
+                "last_name": "Bird",
+                "electorate": "Cunningham",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 50,
+                "person": {
+                    "id": 10063
+                },
+                "first_name": "David",
+                "last_name": "Bradbury",
+                "electorate": "Lindsay",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 69,
+                "person": {
+                    "id": 10081
+                },
+                "first_name": "Tony",
+                "last_name": "Burke",
+                "electorate": "Watson",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 73,
+                "person": {
+                    "id": 10086
+                },
+                "first_name": "Mark",
+                "last_name": "Butler",
+                "electorate": "Port Adelaide",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 74,
+                "person": {
+                    "id": 10088
+                },
+                "first_name": "Anthony",
+                "last_name": "Byrne",
+                "electorate": "Holt",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 94,
+                "person": {
+                    "id": 10111
+                },
+                "first_name": "Nick",
+                "last_name": "Champion",
+                "electorate": "Wakefield",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 101,
+                "person": {
+                    "id": 10117
+                },
+                "first_name": "Darren",
+                "last_name": "Cheeseman",
+                "electorate": "Corangamite",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 106,
+                "person": {
+                    "id": 10123
+                },
+                "first_name": "Jason",
+                "last_name": "Clare",
+                "electorate": "Blaxland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 115,
+                "person": {
+                    "id": 10136
+                },
+                "first_name": "Julie",
+                "last_name": "Collins",
+                "electorate": "Franklin",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 116,
+                "person": {
+                    "id": 10139
+                },
+                "first_name": "Greg",
+                "last_name": "Combet",
+                "electorate": "Charlton",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 128,
+                "person": {
+                    "id": 10158
+                },
+                "first_name": "Simon",
+                "last_name": "Crean",
+                "electorate": "Hotham",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 133,
+                "person": {
+                    "id": 10164
+                },
+                "first_name": "Yvette",
+                "last_name": "D'Ath",
+                "electorate": "Petrie",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 149,
+                "person": {
+                    "id": 10181
+                },
+                "first_name": "Mark",
+                "last_name": "Dreyfus",
+                "electorate": "Isaacs",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 160,
+                "person": {
+                    "id": 10195
+                },
+                "first_name": "Justine",
+                "last_name": "Elliot",
+                "electorate": "Richmond",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 163,
+                "person": {
+                    "id": 10198
+                },
+                "first_name": "Kate",
+                "last_name": "Ellis",
+                "electorate": "Adelaide",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 187,
+                "person": {
+                    "id": 10230
+                },
+                "first_name": "Joel",
+                "last_name": "Fitzgibbon",
+                "electorate": "Hunter",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 199,
+                "person": {
+                    "id": 10241
+                },
+                "first_name": "Peter",
+                "last_name": "Garrett",
+                "electorate": "Kingsford Smith",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 204,
+                "person": {
+                    "id": 10245
+                },
+                "first_name": "Steve",
+                "last_name": "Georganas",
+                "electorate": "Hindmarsh",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 208,
+                "person": {
+                    "id": 10250
+                },
+                "first_name": "Steve",
+                "last_name": "Gibbons",
+                "electorate": "Bendigo",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 222,
+                "person": {
+                    "id": 10264
+                },
+                "first_name": "Gary",
+                "last_name": "Gray",
+                "electorate": "Brand",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 223,
+                "person": {
+                    "id": 10266
+                },
+                "first_name": "Sharon",
+                "last_name": "Grierson",
+                "electorate": "Newcastle",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 224,
+                "person": {
+                    "id": 10267
+                },
+                "first_name": "Alan",
+                "last_name": "Griffin",
+                "electorate": "Bruce",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 230,
+                "person": {
+                    "id": 10275
+                },
+                "first_name": "Jill",
+                "last_name": "Hall",
+                "electorate": "Shortland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 309,
+                "person": {
+                    "id": 10359
+                },
+                "first_name": "Mike",
+                "last_name": "Kelly",
+                "electorate": "Eden-Monaro",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 318,
+                "person": {
+                    "id": 10368
+                },
+                "first_name": "Catherine",
+                "last_name": "King",
+                "electorate": "Ballarat",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 336,
+                "person": {
+                    "id": 10392
+                },
+                "first_name": "Kirsten",
+                "last_name": "Livermore",
+                "electorate": "Capricornia",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 353,
+                "person": {
+                    "id": 10418
+                },
+                "first_name": "Richard",
+                "last_name": "Marles",
+                "electorate": "Corio",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 361,
+                "person": {
+                    "id": 10431
+                },
+                "first_name": "Robert",
+                "last_name": "McClelland",
+                "electorate": "Barton",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 378,
+                "person": {
+                    "id": 10452
+                },
+                "first_name": "Daryl",
+                "last_name": "Melham",
+                "electorate": "Banks",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 400,
+                "person": {
+                    "id": 10485
+                },
+                "first_name": "Shayne",
+                "last_name": "Neumann",
+                "electorate": "Blair",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 408,
+                "person": {
+                    "id": 10496
+                },
+                "first_name": "Brendan",
+                "last_name": "O'Connor",
+                "electorate": "Gorton",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 414,
+                "person": {
+                    "id": 10503
+                },
+                "first_name": "Julie",
+                "last_name": "Owens",
+                "electorate": "Parramatta",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 415,
+                "person": {
+                    "id": 10506
+                },
+                "first_name": "Melissa",
+                "last_name": "Parke",
+                "electorate": "Fremantle",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 418,
+                "person": {
+                    "id": 10512
+                },
+                "first_name": "Graham",
+                "last_name": "Perrett",
+                "electorate": "Moreton",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 419,
+                "person": {
+                    "id": 10513
+                },
+                "first_name": "Tanya",
+                "last_name": "Plibersek",
+                "electorate": "Sydney",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 440,
+                "person": {
+                    "id": 10542
+                },
+                "first_name": "Bernie",
+                "last_name": "Ripoll",
+                "electorate": "Oxley",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 441,
+                "person": {
+                    "id": 10543
+                },
+                "first_name": "Amanda",
+                "last_name": "Rishworth",
+                "electorate": "Kingston",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 449,
+                "person": {
+                    "id": 10551
+                },
+                "first_name": "Nicola",
+                "last_name": "Roxon",
+                "electorate": "Gellibrand",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 450,
+                "person": {
+                    "id": 10552
+                },
+                "first_name": "Kevin",
+                "last_name": "Rudd",
+                "electorate": "Griffith",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 454,
+                "person": {
+                    "id": 10555
+                },
+                "first_name": "Janelle",
+                "last_name": "Saffin",
+                "electorate": "Page",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 476,
+                "person": {
+                    "id": 10580
+                },
+                "first_name": "Bill",
+                "last_name": "Shorten",
+                "electorate": "Maribyrnong",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 478,
+                "person": {
+                    "id": 10583
+                },
+                "first_name": "Sid",
+                "last_name": "Sidebottom",
+                "electorate": "Braddon",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 488,
+                "person": {
+                    "id": 10594
+                },
+                "first_name": "Stephen",
+                "last_name": "Smith",
+                "electorate": "Perth",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 494,
+                "person": {
+                    "id": 10599
+                },
+                "first_name": "Warren",
+                "last_name": "Snowdon",
+                "electorate": "Lingiari",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 510,
+                "person": {
+                    "id": 10617
+                },
+                "first_name": "Wayne",
+                "last_name": "Swan",
+                "electorate": "Lilley",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 511,
+                "person": {
+                    "id": 10618
+                },
+                "first_name": "Mike",
+                "last_name": "Symon",
+                "electorate": "Deakin",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 521,
+                "person": {
+                    "id": 10632
+                },
+                "first_name": "Kelvin",
+                "last_name": "Thomson",
+                "electorate": "Wills",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 533,
+                "person": {
+                    "id": 10649
+                },
+                "first_name": "Maria",
+                "last_name": "Vamvakinou",
+                "electorate": "Calwell",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 551,
+                "person": {
+                    "id": 10676
+                },
+                "first_name": "Tony",
+                "last_name": "Windsor",
+                "electorate": "New England",
+                "party": "Independent"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 563,
+                "person": {
+                    "id": 10695
+                },
+                "first_name": "Tony",
+                "last_name": "Zappia",
+                "electorate": "Makin",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 585,
+                "person": {
+                    "id": 10720
+                },
+                "first_name": "Robert",
+                "last_name": "Oakeshott",
+                "electorate": "Lyne",
+                "party": "Independent"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 591,
+                "person": {
+                    "id": 10727
+                },
+                "first_name": "Andrew",
+                "last_name": "Wilkie",
+                "electorate": "Denison",
+                "party": "Independent"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 595,
+                "person": {
+                    "id": 10731
+                },
+                "first_name": "Laura",
+                "last_name": "Smyth",
+                "electorate": "La Trobe",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 599,
+                "person": {
+                    "id": 10733
+                },
+                "first_name": "Rob",
+                "last_name": "Mitchell",
+                "electorate": "McEwen",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 600,
+                "person": {
+                    "id": 10734
+                },
+                "first_name": "Adam",
+                "last_name": "Bandt",
+                "electorate": "Melbourne",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 603,
+                "person": {
+                    "id": 10737
+                },
+                "first_name": "Geoff",
+                "last_name": "Lyons",
+                "electorate": "Bass",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 604,
+                "person": {
+                    "id": 10738
+                },
+                "first_name": "Gai",
+                "last_name": "Brodtmann",
+                "electorate": "Canberra",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 606,
+                "person": {
+                    "id": 10740
+                },
+                "first_name": "Stephen",
+                "last_name": "Jones",
+                "electorate": "Throsby",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 610,
+                "person": {
+                    "id": 10294
+                },
+                "first_name": "Chris",
+                "last_name": "Hayes",
+                "electorate": "Fowler",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 613,
+                "person": {
+                    "id": 10746
+                },
+                "first_name": "Andrew",
+                "last_name": "Leigh",
+                "electorate": "Fraser",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 614,
+                "person": {
+                    "id": 10747
+                },
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "electorate": "Robertson",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 616,
+                "person": {
+                    "id": 10749
+                },
+                "first_name": "Ed",
+                "last_name": "Husic",
+                "electorate": "Chifley",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 619,
+                "person": {
+                    "id": 10217
+                },
+                "first_name": "Laurie",
+                "last_name": "Ferguson",
+                "electorate": "Werriwa",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 620,
+                "person": {
+                    "id": 10473
+                },
+                "first_name": "John",
+                "last_name": "Murphy",
+                "electorate": "Reid",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 623,
+                "person": {
+                    "id": 10060
+                },
+                "first_name": "Chris",
+                "last_name": "Bowen",
+                "electorate": "McMahon",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 628,
+                "person": {
+                    "id": 10335
+                },
+                "first_name": "Harry",
+                "last_name": "Jenkins",
+                "electorate": "Scullin",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 633,
+                "person": {
+                    "id": 10630
+                },
+                "first_name": "Craig",
+                "last_name": "Thomson",
+                "electorate": "Dobell",
+                "party": "Independent"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 13,
+                "person": {
+                    "id": 10014
+                },
+                "first_name": "Kevin",
+                "last_name": "Andrews",
+                "electorate": "Menzies",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 38,
+                "person": {
+                    "id": 10041
+                },
+                "first_name": "Bruce",
+                "last_name": "Billson",
+                "electorate": "Dunkley",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 42,
+                "person": {
+                    "id": 10046
+                },
+                "first_name": "Bronwyn",
+                "last_name": "Bishop",
+                "electorate": "Mackellar",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 43,
+                "person": {
+                    "id": 10047
+                },
+                "first_name": "Julie",
+                "last_name": "Bishop",
+                "electorate": "Curtin",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 57,
+                "person": {
+                    "id": 10069
+                },
+                "first_name": "Russell",
+                "last_name": "Broadbent",
+                "electorate": "McMillan",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 105,
+                "person": {
+                    "id": 10122
+                },
+                "first_name": "Steven",
+                "last_name": "Ciobo",
+                "electorate": "Moncrieff",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 111,
+                "person": {
+                    "id": 10127
+                },
+                "first_name": "John",
+                "last_name": "Cobb",
+                "electorate": "Calare",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 123,
+                "person": {
+                    "id": 10152
+                },
+                "first_name": "Mark",
+                "last_name": "Coulton",
+                "electorate": "Parkes",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 154,
+                "person": {
+                    "id": 10188
+                },
+                "first_name": "Peter",
+                "last_name": "Dutton",
+                "electorate": "Dickson",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 200,
+                "person": {
+                    "id": 10242
+                },
+                "first_name": "Joanna",
+                "last_name": "Gash",
+                "electorate": "Gilmore",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 237,
+                "person": {
+                    "id": 10285
+                },
+                "first_name": "Luke",
+                "last_name": "Hartsuyker",
+                "electorate": "Cowper",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 242,
+                "person": {
+                    "id": 10290
+                },
+                "first_name": "Alex",
+                "last_name": "Hawke",
+                "electorate": "Mitchell",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 256,
+                "person": {
+                    "id": 10306
+                },
+                "first_name": "Joe",
+                "last_name": "Hockey",
+                "electorate": "North Sydney",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 270,
+                "person": {
+                    "id": 10319
+                },
+                "first_name": "Greg",
+                "last_name": "Hunt",
+                "electorate": "Flinders",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 275,
+                "person": {
+                    "id": 10326
+                },
+                "first_name": "Steve",
+                "last_name": "Irons",
+                "electorate": "Swan",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 289,
+                "person": {
+                    "id": 10337
+                },
+                "first_name": "Dennis",
+                "last_name": "Jensen",
+                "electorate": "Tangney",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 302,
+                "person": {
+                    "id": 10352
+                },
+                "first_name": "Bob",
+                "last_name": "Katter",
+                "electorate": "Kennedy",
+                "party": "Independent"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 305,
+                "person": {
+                    "id": 10356
+                },
+                "first_name": "Michael",
+                "last_name": "Keenan",
+                "electorate": "Stirling",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 324,
+                "person": {
+                    "id": 10377
+                },
+                "first_name": "Andrew",
+                "last_name": "Laming",
+                "electorate": "Bowman",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 332,
+                "person": {
+                    "id": 10387
+                },
+                "first_name": "Sussan",
+                "last_name": "Ley",
+                "electorate": "Farrer",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 342,
+                "person": {
+                    "id": 10403
+                },
+                "first_name": "Ian",
+                "last_name": "Macfarlane",
+                "electorate": "Groom",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 351,
+                "person": {
+                    "id": 10416
+                },
+                "first_name": "Nola",
+                "last_name": "Marino",
+                "electorate": "Forrest",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 383,
+                "person": {
+                    "id": 10461
+                },
+                "first_name": "Sophie",
+                "last_name": "Mirabella",
+                "electorate": "Indi",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 388,
+                "person": {
+                    "id": 10468
+                },
+                "first_name": "Scott",
+                "last_name": "Morrison",
+                "electorate": "Cook",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 391,
+                "person": {
+                    "id": 10471
+                },
+                "first_name": "Judi",
+                "last_name": "Moylan",
+                "electorate": "Pearce",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 401,
+                "person": {
+                    "id": 10486
+                },
+                "first_name": "Paul",
+                "last_name": "Neville",
+                "electorate": "Hinkler",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 427,
+                "person": {
+                    "id": 10524
+                },
+                "first_name": "Christopher",
+                "last_name": "Pyne",
+                "electorate": "Sturt",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 430,
+                "person": {
+                    "id": 10529
+                },
+                "first_name": "Rowan",
+                "last_name": "Ramsey",
+                "electorate": "Grey",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 431,
+                "person": {
+                    "id": 10530
+                },
+                "first_name": "Don",
+                "last_name": "Randall",
+                "electorate": "Canning",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 442,
+                "person": {
+                    "id": 10544
+                },
+                "first_name": "Andrew",
+                "last_name": "Robb",
+                "electorate": "Goldstein",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 443,
+                "person": {
+                    "id": 10545
+                },
+                "first_name": "Stuart",
+                "last_name": "Robert",
+                "electorate": "Fadden",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 451,
+                "person": {
+                    "id": 10553
+                },
+                "first_name": "Philip",
+                "last_name": "Ruddock",
+                "electorate": "Berowra",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 463,
+                "person": {
+                    "id": 10565
+                },
+                "first_name": "Bruce",
+                "last_name": "Scott",
+                "electorate": "Maranoa",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 466,
+                "person": {
+                    "id": 10570
+                },
+                "first_name": "Patrick",
+                "last_name": "Secker",
+                "electorate": "Barker",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 481,
+                "person": {
+                    "id": 10588
+                },
+                "first_name": "Luke",
+                "last_name": "Simpkins",
+                "electorate": "Cowan",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 486,
+                "person": {
+                    "id": 10592
+                },
+                "first_name": "Tony",
+                "last_name": "Smith",
+                "electorate": "Casey",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 498,
+                "person": {
+                    "id": 10601
+                },
+                "first_name": "Andrew",
+                "last_name": "Southcott",
+                "electorate": "Boothby",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 505,
+                "person": {
+                    "id": 10612
+                },
+                "first_name": "Sharman",
+                "last_name": "Stone",
+                "electorate": "Murray",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 526,
+                "person": {
+                    "id": 10641
+                },
+                "first_name": "Warren",
+                "last_name": "Truss",
+                "electorate": "Wide Bay",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 528,
+                "person": {
+                    "id": 10643
+                },
+                "first_name": "Malcolm",
+                "last_name": "Turnbull",
+                "electorate": "Wentworth",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 539,
+                "person": {
+                    "id": 10659
+                },
+                "first_name": "Mal",
+                "last_name": "Washer",
+                "electorate": "Moore",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 567,
+                "person": {
+                    "id": 10703
+                },
+                "first_name": "Darren",
+                "last_name": "Chester",
+                "electorate": "Gippsland",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 586,
+                "person": {
+                    "id": 10721
+                },
+                "first_name": "Jamie",
+                "last_name": "Briggs",
+                "electorate": "Mayo",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 587,
+                "person": {
+                    "id": 10723
+                },
+                "first_name": "Paul",
+                "last_name": "Fletcher",
+                "electorate": "Bradfield",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 588,
+                "person": {
+                    "id": 10724
+                },
+                "first_name": "Kelly",
+                "last_name": "O'Dwyer",
+                "electorate": "Higgins",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 589,
+                "person": {
+                    "id": 10725
+                },
+                "first_name": "John",
+                "last_name": "Alexander",
+                "electorate": "Bennelong",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 590,
+                "person": {
+                    "id": 10726
+                },
+                "first_name": "George",
+                "last_name": "Christensen",
+                "electorate": "Dawson",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 592,
+                "person": {
+                    "id": 10728
+                },
+                "first_name": "Ken",
+                "last_name": "O'Dowd",
+                "electorate": "Flynn",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 593,
+                "person": {
+                    "id": 10729
+                },
+                "first_name": "Bert",
+                "last_name": "Van Manen",
+                "electorate": "Forde",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 594,
+                "person": {
+                    "id": 10730
+                },
+                "first_name": "Ken",
+                "last_name": "Wyatt",
+                "electorate": "Hasluck",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 596,
+                "person": {
+                    "id": 10203
+                },
+                "first_name": "Warren",
+                "last_name": "Entsch",
+                "electorate": "Leichhardt",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 597,
+                "person": {
+                    "id": 10732
+                },
+                "first_name": "Wyatt",
+                "last_name": "Roy",
+                "electorate": "Longman",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 598,
+                "person": {
+                    "id": 10417
+                },
+                "first_name": "Louise",
+                "last_name": "Markus",
+                "electorate": "Macquarie",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 601,
+                "person": {
+                    "id": 10735
+                },
+                "first_name": "Tony",
+                "last_name": "Crook",
+                "electorate": "O'Connor",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 602,
+                "person": {
+                    "id": 10736
+                },
+                "first_name": "Natasha",
+                "last_name": "Griggs",
+                "electorate": "Solomon",
+                "party": "Country Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 605,
+                "person": {
+                    "id": 10739
+                },
+                "first_name": "Russell",
+                "last_name": "Matheson",
+                "electorate": "Macarthur",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 608,
+                "person": {
+                    "id": 10742
+                },
+                "first_name": "Dan",
+                "last_name": "Tehan",
+                "electorate": "Wannon",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 609,
+                "person": {
+                    "id": 10743
+                },
+                "first_name": "Michael",
+                "last_name": "McCormack",
+                "electorate": "Riverina",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 611,
+                "person": {
+                    "id": 10744
+                },
+                "first_name": "Ewen",
+                "last_name": "Jones",
+                "electorate": "Herbert",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 612,
+                "person": {
+                    "id": 10745
+                },
+                "first_name": "Karen",
+                "last_name": "Andrews",
+                "electorate": "McPherson",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 615,
+                "person": {
+                    "id": 10748
+                },
+                "first_name": "Alan",
+                "last_name": "Tudge",
+                "electorate": "Aston",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 622,
+                "person": {
+                    "id": 10272
+                },
+                "first_name": "Barry",
+                "last_name": "Haase",
+                "electorate": "Durack",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 624,
+                "person": {
+                    "id": 10752
+                },
+                "first_name": "Scott",
+                "last_name": "Buchholz",
+                "electorate": "Wright",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 625,
+                "person": {
+                    "id": 10753
+                },
+                "first_name": "Jane",
+                "last_name": "Prentice",
+                "electorate": "Ryan",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 626,
+                "person": {
+                    "id": 10651
+                },
+                "first_name": "Ross",
+                "last_name": "Vasta",
+                "electorate": "Bonner",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 627,
+                "person": {
+                    "id": 10239
+                },
+                "first_name": "Teresa",
+                "last_name": "Gambaro",
+                "electorate": "Brisbane",
+                "party": "Liberal Party"
+            }
+        }
+    ],
+    "policy_divisions": [
+        {
+            "policy": {
+                "id": 3,
+                "name": "a carbon price",
+                "description": "the federal government should introduce a carbon pricing mechanism",
+                "provisional": false
+            },
+            "vote": "aye",
+            "strong": false
+        }
+    ],
+    "bills": [
+        {
+            "id": 489,
+            "official_id": "r4821",
+            "title": "Clean Energy (Customs Tariff Amendment) Bill 2012",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4821"
+        }
+    ]
+}

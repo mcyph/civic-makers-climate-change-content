@@ -1,0 +1,970 @@
+{
+    "id": 2105,
+    "house": "senate",
+    "name": "Clean Energy Bill 2011 and related bills - First Reading - Read for a first time",
+    "date": "2011-10-12",
+    "number": 11,
+    "clock_time": null,
+    "aye_votes": 35,
+    "no_votes": 29,
+    "possible_turnout": 75,
+    "rebellions": 0,
+    "edited": true,
+    "summary": "The majority voted in favour of a [motion](http://www.openaustralia.org/senate/?gid=2011-10-12.128.16) that the bills be read a first time. The eighteen bills are a package to implement a [carbon pricing mechanism](http://en.wikipedia.org/wiki/Carbon_pricing_in_Australia).\n\nPassing this motion means that the bills can be introduced into the Senate. According to [Odgers’ Australian Senate Practice](http://www.aph.gov.au/About_Parliament/Senate/Powers_practice_n_procedures/odgers13?file=chapter12&section=05), “the first reading is normally passed without opposition and is regarded as a purely formal stage”, so the fact that the Senate divided to vote on this motion demonstrates how controversial the carbon pricing mechanism was.\n\nThe carbon price is a key policy of the Labor Government.\n\nThe eighteen bills are:\n\n- [Clean Energy Bill 2011](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4653)\n- [Clean Energy (Consequential Amendments) Bill 2011](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation%2Fbillhome%2Fr4655)\n- [Clean Energy (Income Tax Rates Amendments) Bill 2011](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbillhome%2Fr4647%22)\n- [Clean Energy (Household Assistance Amendments) Bill 2011](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation%2Fbillhome%2Fr4662)\n- [Clean Energy (Tax Laws Amendments) Bill 2011](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbillhome%2Fr4649%22)\n- [Clean Energy (Fuel Tax Legislation Amendment) Bill 2011](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation%2Fbillhome%2Fr4651)\n- [Clean Energy (Customs Tariff Amendment) Bill 2011](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbillhome%2Fr4648%22)\n- [Clean Energy (Excise Tariff Legislation Amendment) Bill 2011](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation%2Fbillhome%2Fr4650)\n- [Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4661)\n- [Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4664)\n- [Clean Energy (Unit Shortfall Charge—General) Bill 2011](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation%2Fbillhome%2Fr4660)\n- [Clean Energy (Unit Issue Charge—Auctions) Bill 2011](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4658)\n- [Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4659)\n- [Clean Energy (International Unit Surrender Charge) Bill 2011](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation%2Fbillhome%2Fr4656)\n- [Clean Energy (Charges—Customs) Bill 2011](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4654)\n- [Clean Energy (Charges—Excise) Bill 2011](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4665)\n- [Clean Energy Regulator Bill 2011](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4657)\n- [Climate Change Authority Bill 2011](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4663)\n\n_Background to the bills_\n\nThe carbon pricing mechanism is set to begin on 1 July 2012.(Read more about the carbon pricing mechanism on the Clean Energy Regulator’s [website](http://www.cleanenergyregulator.gov.au/Carbon-Pricing-Mechanism/About-the-Mechanism/Pages/default.aspx).) It is an emissions trading scheme that puts a price on carbon emissions. It will apply to “liable entities” (a group that includes companies that emit a high level of greenhouse gases). Initially the price of carbon will be fixed by the mechanism but from 1 July 2015 the price will be set by the market.\n\nReferences",
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100255,
+                "person": {
+                    "id": 10710
+                },
+                "first_name": "Mark",
+                "last_name": "Furner",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100259,
+                "person": {
+                    "id": 10714
+                },
+                "first_name": "Louise",
+                "last_name": "Pratt",
+                "electorate": "WA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100300,
+                "person": {
+                    "id": 10765
+                },
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "electorate": "SA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100262,
+                "person": {
+                    "id": 10717
+                },
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "electorate": "SA",
+                "party": "Independent"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100159,
+                "person": {
+                    "id": 10463
+                },
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100152,
+                "person": {
+                    "id": 10447
+                },
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100145,
+                "person": {
+                    "id": 10433
+                },
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "electorate": "SA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100265,
+                "person": {
+                    "id": 10135
+                },
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100138,
+                "person": {
+                    "id": 10419
+                },
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100178,
+                "person": {
+                    "id": 10515
+                },
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100258,
+                "person": {
+                    "id": 10713
+                },
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "electorate": "WA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100253,
+                "person": {
+                    "id": 10708
+                },
+                "first_name": "Don",
+                "last_name": "Farrell",
+                "electorate": "SA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100256,
+                "person": {
+                    "id": 10711
+                },
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "electorate": "SA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100251,
+                "person": {
+                    "id": 10706
+                },
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100250,
+                "person": {
+                    "id": 10705
+                },
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100213,
+                "person": {
+                    "id": 10610
+                },
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "electorate": "WA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100212,
+                "person": {
+                    "id": 10609
+                },
+                "first_name": "Ursula",
+                "last_name": "Stephens",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100208,
+                "person": {
+                    "id": 10584
+                },
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "electorate": "WA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100202,
+                "person": {
+                    "id": 10576
+                },
+                "first_name": "Nick",
+                "last_name": "Sherry",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100277,
+                "person": {
+                    "id": 10309
+                },
+                "first_name": "John",
+                "last_name": "Hogg",
+                "electorate": "Queensland",
+                "party": "PRES"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100129,
+                "person": {
+                    "id": 10398
+                },
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "electorate": "ACT",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100128,
+                "person": {
+                    "id": 10397
+                },
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100293,
+                "person": {
+                    "id": 10760
+                },
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "electorate": "NSW",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100288,
+                "person": {
+                    "id": 10757
+                },
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "electorate": "SA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100026,
+                "person": {
+                    "id": 10071
+                },
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100295,
+                "person": {
+                    "id": 10761
+                },
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100296,
+                "person": {
+                    "id": 10762
+                },
+                "first_name": "Matt",
+                "last_name": "Thistlethwaite",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100297,
+                "person": {
+                    "id": 10763
+                },
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100016,
+                "person": {
+                    "id": 10048
+                },
+                "first_name": "Mark",
+                "last_name": "Bishop",
+                "electorate": "WA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100298,
+                "person": {
+                    "id": 10764
+                },
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "electorate": "Queensland",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100053,
+                "person": {
+                    "id": 10142
+                },
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100027,
+                "person": {
+                    "id": 10696
+                },
+                "first_name": "Bob",
+                "last_name": "Brown",
+                "electorate": "Tasmania",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100061,
+                "person": {
+                    "id": 10161
+                },
+                "first_name": "Trish",
+                "last_name": "Crossin",
+                "electorate": "NT",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100285,
+                "person": {
+                    "id": 10755
+                },
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "electorate": "Victoria",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100156,
+                "person": {
+                    "id": 10458
+                },
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "electorate": "Tasmania",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100261,
+                "person": {
+                    "id": 10716
+                },
+                "first_name": "John",
+                "last_name": "Williams",
+                "electorate": "NSW",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100279,
+                "person": {
+                    "id": 10722
+                },
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100287,
+                "person": {
+                    "id": 10215
+                },
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100286,
+                "person": {
+                    "id": 10756
+                },
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100001,
+                "person": {
+                    "id": 10003
+                },
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "electorate": "Tasmania",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100291,
+                "person": {
+                    "id": 10758
+                },
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "electorate": "Victoria",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100257,
+                "person": {
+                    "id": 10712
+                },
+                "first_name": "Helen",
+                "last_name": "Kroger",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100292,
+                "person": {
+                    "id": 10759
+                },
+                "first_name": "John",
+                "last_name": "Madigan",
+                "electorate": "Victoria",
+                "party": "Democratic Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100252,
+                "person": {
+                    "id": 10707
+                },
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100082,
+                "person": {
+                    "id": 10222
+                },
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "electorate": "NSW",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100071,
+                "person": {
+                    "id": 10193
+                },
+                "first_name": "Alan",
+                "last_name": "Eggleston",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100057,
+                "person": {
+                    "id": 10148
+                },
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100047,
+                "person": {
+                    "id": 10131
+                },
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "electorate": "Tasmania",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100025,
+                "person": {
+                    "id": 10067
+                },
+                "first_name": "George",
+                "last_name": "Brandis",
+                "electorate": "Queensland",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100024,
+                "person": {
+                    "id": 10062
+                },
+                "first_name": "Sue",
+                "last_name": "Boyce",
+                "electorate": "Queensland",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100022,
+                "person": {
+                    "id": 10057
+                },
+                "first_name": "Ron",
+                "last_name": "Boswell",
+                "electorate": "Queensland",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100014,
+                "person": {
+                    "id": 10044
+                },
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100083,
+                "person": {
+                    "id": 10224
+                },
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100084,
+                "person": {
+                    "id": 10227
+                },
+                "first_name": "Mary",
+                "last_name": "Fisher",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100107,
+                "person": {
+                    "id": 10318
+                },
+                "first_name": "Gary",
+                "last_name": "Humphries",
+                "electorate": "ACT",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100199,
+                "person": {
+                    "id": 10569
+                },
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "electorate": "NT",
+                "party": "Country Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100192,
+                "person": {
+                    "id": 10550
+                },
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100177,
+                "person": {
+                    "id": 10509
+                },
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "electorate": "NSW",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100175,
+                "person": {
+                    "id": 10507
+                },
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "electorate": "Tasmania",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100164,
+                "person": {
+                    "id": 10478
+                },
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "electorate": "NSW",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100140,
+                "person": {
+                    "id": 10423
+                },
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "electorate": "Queensland",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100130,
+                "person": {
+                    "id": 10401
+                },
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "electorate": "Queensland",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100112,
+                "person": {
+                    "id": 10344
+                },
+                "first_name": "David",
+                "last_name": "Johnston",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100002,
+                "person": {
+                    "id": 10005
+                },
+                "first_name": "Judith",
+                "last_name": "Adams",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        }
+    ],
+    "policy_divisions": [
+        {
+            "policy": {
+                "id": 3,
+                "name": "a carbon price",
+                "description": "the federal government should introduce a carbon pricing mechanism",
+                "provisional": false
+            },
+            "vote": "aye",
+            "strong": true
+        }
+    ],
+    "bills": [
+        {
+            "id": 409,
+            "official_id": "r4653",
+            "title": "Clean Energy Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4653"
+        },
+        {
+            "id": 410,
+            "official_id": "r4655",
+            "title": "Clean Energy (Consequential Amendments) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4655"
+        },
+        {
+            "id": 411,
+            "official_id": "r4647",
+            "title": "Clean Energy (Income Tax Rates Amendments) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4647"
+        },
+        {
+            "id": 412,
+            "official_id": "r4662",
+            "title": "Clean Energy (Household Assistance Amendments) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4662"
+        },
+        {
+            "id": 413,
+            "official_id": "r4649",
+            "title": "Clean Energy (Tax Laws Amendments) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4649"
+        },
+        {
+            "id": 414,
+            "official_id": "r4651",
+            "title": "Clean Energy (Fuel Tax Legislation Amendment) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4651"
+        },
+        {
+            "id": 415,
+            "official_id": "r4648",
+            "title": "Clean Energy (Customs Tariff Amendment) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4648"
+        },
+        {
+            "id": 416,
+            "official_id": "r4650",
+            "title": "Clean Energy (Excise Tariff Legislation Amendment) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4650"
+        },
+        {
+            "id": 417,
+            "official_id": "r4661",
+            "title": "Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4661"
+        },
+        {
+            "id": 418,
+            "official_id": "r4664",
+            "title": "Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4664"
+        },
+        {
+            "id": 419,
+            "official_id": "r4660",
+            "title": "Clean Energy (Unit Shortfall Charge—General) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4660"
+        },
+        {
+            "id": 420,
+            "official_id": "r4658",
+            "title": "Clean Energy (Unit Issue Charge—Auctions) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4658"
+        },
+        {
+            "id": 421,
+            "official_id": "r4659",
+            "title": "Clean Energy (Unit Issue Charge—Fixed Charge) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4659"
+        },
+        {
+            "id": 422,
+            "official_id": "r4656",
+            "title": "Clean Energy (International Unit Surrender Charge) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4656"
+        },
+        {
+            "id": 423,
+            "official_id": "r4654",
+            "title": "Clean Energy (Charges—Customs) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4654"
+        },
+        {
+            "id": 424,
+            "official_id": "r4665",
+            "title": "Clean Energy (Charges—Excise) Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4665"
+        },
+        {
+            "id": 425,
+            "official_id": "r4657",
+            "title": "Clean Energy Regulator Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4657"
+        },
+        {
+            "id": 426,
+            "official_id": "r4663",
+            "title": "Climate Change Authority Bill 2011",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r4663"
+        }
+    ]
+}

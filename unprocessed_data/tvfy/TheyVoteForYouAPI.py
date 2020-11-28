@@ -19,14 +19,14 @@ GET_PARAMS = {
 class TheyVoteForYouAPI:
     def people(self):
         """
-
+        Get all people
         :return:
         """
         return get(f'{API_PREFIX}/people.json', GET_PARAMS).json()
 
     def person(self, person_id: int):
         """
-
+        Get a given person by ID
         :param person_id:
         :return:
         """
@@ -34,14 +34,14 @@ class TheyVoteForYouAPI:
 
     def policies(self):
         """
-
+        Get all policies
         :return:
         """
         return get(f'{API_PREFIX}/policies.json', GET_PARAMS).json()
 
     def policy(self, policy_id: int):
         """
-
+        Get a policy by ID
         :param policy_id:
         :return:
         """
@@ -49,18 +49,20 @@ class TheyVoteForYouAPI:
 
     def divisions(self):
         """
-
+        Get all divisions
         :return:
         """
         return get(f'{API_PREFIX}/divisions.json', GET_PARAMS).json()
 
     def division(self, division_id: int):
         """
-
+        Get a given division by ID
         :param division_id:
         :return:
         """
-        return get(f'{API_PREFIX}/divisions/{division_id}.json', GET_PARAMS).json()
+        r = get(f'{API_PREFIX}/divisions/{division_id}.json', GET_PARAMS)
+        print(r.text)
+        return r.json()
 
 
 if __name__ == '__main__':

@@ -1,0 +1,419 @@
+{
+    "id": 235,
+    "house": "senate",
+    "name": "Documents - Great Barrier Reef - Federal responsibility",
+    "date": "2012-09-11",
+    "number": 4,
+    "clock_time": "4:02 PM",
+    "aye_votes": 9,
+    "no_votes": 21,
+    "possible_turnout": 76,
+    "rebellions": 0,
+    "edited": true,
+    "summary": "### Motion text\r\n\r\n> *That the Senate—*\r\n\r\n> *(a)   notes:*\r\n\r\n>> *(i)   the intention of the Minister for Sustainability, Environment, Water, Population and Communities (Mr Burke) to transfer responsibility for protecting our nationally threatened species and wilderness places to state governments by March 2013, and*\r\n\r\n>> *(ii)   that the Queensland Premier (Mr Newman) is ready to sacrifice the Great Barrier Reef for mining and development; and*\r\n\r\n> *(b)   calls on the Government to retain responsibility for all major decisions on environmentally damaging projects that affect our nationally threatened species and wilderness places.*",
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100258,
+                "person": {
+                    "id": 10713
+                },
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "electorate": "WA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100256,
+                "person": {
+                    "id": 10711
+                },
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "electorate": "SA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100208,
+                "person": {
+                    "id": 10584
+                },
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "electorate": "WA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100292,
+                "person": {
+                    "id": 10759
+                },
+                "first_name": "John",
+                "last_name": "Madigan",
+                "electorate": "Victoria",
+                "party": "Democratic Labor Party"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100293,
+                "person": {
+                    "id": 10760
+                },
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "electorate": "NSW",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100156,
+                "person": {
+                    "id": 10458
+                },
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "electorate": "Tasmania",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100298,
+                "person": {
+                    "id": 10764
+                },
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "electorate": "Queensland",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100300,
+                "person": {
+                    "id": 10765
+                },
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "electorate": "SA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100305,
+                "person": {
+                    "id": 10780
+                },
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "electorate": "Tasmania",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100296,
+                "person": {
+                    "id": 10762
+                },
+                "first_name": "Matt",
+                "last_name": "Thistlethwaite",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100261,
+                "person": {
+                    "id": 10716
+                },
+                "first_name": "John",
+                "last_name": "Williams",
+                "electorate": "NSW",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100265,
+                "person": {
+                    "id": 10135
+                },
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100287,
+                "person": {
+                    "id": 10215
+                },
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100291,
+                "person": {
+                    "id": 10758
+                },
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "electorate": "Victoria",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100303,
+                "person": {
+                    "id": 10768
+                },
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100297,
+                "person": {
+                    "id": 10763
+                },
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100013,
+                "person": {
+                    "id": 10038
+                },
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100257,
+                "person": {
+                    "id": 10712
+                },
+                "first_name": "Helen",
+                "last_name": "Kroger",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100016,
+                "person": {
+                    "id": 10048
+                },
+                "first_name": "Mark",
+                "last_name": "Bishop",
+                "electorate": "WA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100026,
+                "person": {
+                    "id": 10071
+                },
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100057,
+                "person": {
+                    "id": 10148
+                },
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100083,
+                "person": {
+                    "id": 10224
+                },
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100112,
+                "person": {
+                    "id": 10344
+                },
+                "first_name": "David",
+                "last_name": "Johnston",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100138,
+                "person": {
+                    "id": 10419
+                },
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100159,
+                "person": {
+                    "id": 10463
+                },
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100164,
+                "person": {
+                    "id": 10478
+                },
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "electorate": "NSW",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100251,
+                "person": {
+                    "id": 10706
+                },
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100252,
+                "person": {
+                    "id": 10707
+                },
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100255,
+                "person": {
+                    "id": 10710
+                },
+                "first_name": "Mark",
+                "last_name": "Furner",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100306,
+                "person": {
+                    "id": 10781
+                },
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        }
+    ],
+    "policy_divisions": [
+        {
+            "policy": {
+                "id": 122,
+                "name": "protecting the Great Barrier Reef",
+                "description": "the federal government should make laws and regulations that protect and conserve the health of the Great Barrier Reef for future generations",
+                "provisional": false
+            },
+            "vote": "aye",
+            "strong": false
+        }
+    ],
+    "bills": []
+}

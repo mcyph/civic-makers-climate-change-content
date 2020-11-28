@@ -1,0 +1,679 @@
+{
+    "id": 3439,
+    "house": "senate",
+    "name": "Motions - East West Link - Redirect funding to public transport",
+    "date": "2014-09-24",
+    "number": 2,
+    "clock_time": "4:03 PM",
+    "aye_votes": 10,
+    "no_votes": 40,
+    "possible_turnout": 76,
+    "rebellions": 0,
+    "edited": true,
+    "summary": "The majority voted against a [motion](http://www.openaustralia.org.au/senate/?id=2014-09-24.217.1) introduced by Greens Senator [Janet Rice](http://www.openaustralia.org.au/senate/?id=2014-09-24.217.1) (Vic), which means it was rejected.\r\n\r\n### Motion text\r\n\r\n> *That the Senate—*\r\n\r\n> *(a) notes:*\r\n\r\n>> *(i) the recent release of the G20 finance ministers report on leading practices to promote and prioritise quality investment, particularly in infrastructure,*\r\n\r\n>> *(ii) the emphasis this report places on rigorous, transparent and consistent infrastructure project preparation,*\r\n\r\n>> *(iii) that this reflects priorities set out in the 2013 National Infrastructure Plan, which promotes public investment in public transport, and*\r\n\r\n>> *(iv) that this raises concern that the $3 billion in federal funding committed toward the proposed East West Link project does not uphold the principles set out in these reports; and*\r\n\r\n> *(b) calls on the Government to redirect the $3 billion of Commonwealth funds allocated for the proposed East West Link to public transport in Victoria.*",
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100300,
+                "person": {
+                    "id": 10765
+                },
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "electorate": "SA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100298,
+                "person": {
+                    "id": 10764
+                },
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "electorate": "Queensland",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100293,
+                "person": {
+                    "id": 10760
+                },
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "electorate": "NSW",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100285,
+                "person": {
+                    "id": 10755
+                },
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "electorate": "Victoria",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100258,
+                "person": {
+                    "id": 10713
+                },
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "electorate": "WA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100256,
+                "person": {
+                    "id": 10711
+                },
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "electorate": "SA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100208,
+                "person": {
+                    "id": 10584
+                },
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "electorate": "WA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100156,
+                "person": {
+                    "id": 10458
+                },
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "electorate": "Tasmania",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100836,
+                "person": {
+                    "id": 10836
+                },
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "electorate": "Victoria",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100305,
+                "person": {
+                    "id": 10780
+                },
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "electorate": "Tasmania",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100832,
+                "person": {
+                    "id": 10832
+                },
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100312,
+                "person": {
+                    "id": 10747
+                },
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100308,
+                "person": {
+                    "id": 10819
+                },
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100306,
+                "person": {
+                    "id": 10781
+                },
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100291,
+                "person": {
+                    "id": 10758
+                },
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "electorate": "Victoria",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100303,
+                "person": {
+                    "id": 10768
+                },
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100837,
+                "person": {
+                    "id": 10837
+                },
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "electorate": "WA",
+                "party": "Palmer United Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100838,
+                "person": {
+                    "id": 10507
+                },
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "electorate": "Tasmania",
+                "party": "PRES"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100835,
+                "person": {
+                    "id": 10835
+                },
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100834,
+                "person": {
+                    "id": 10834
+                },
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100831,
+                "person": {
+                    "id": 10831
+                },
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "electorate": "Queensland",
+                "party": "Palmer United Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100830,
+                "person": {
+                    "id": 10830
+                },
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "electorate": "Tasmania",
+                "party": "Palmer United Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100833,
+                "person": {
+                    "id": 10833
+                },
+                "first_name": "James",
+                "last_name": "McGrath",
+                "electorate": "Queensland",
+                "party": "Liberal National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100829,
+                "person": {
+                    "id": 10829
+                },
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100828,
+                "person": {
+                    "id": 10828
+                },
+                "first_name": "Bob",
+                "last_name": "Day",
+                "electorate": "SA",
+                "party": "Family First Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100827,
+                "person": {
+                    "id": 10827
+                },
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "electorate": "Queensland",
+                "party": "Liberal National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100826,
+                "person": {
+                    "id": 10826
+                },
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "electorate": "WA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100313,
+                "person": {
+                    "id": 10824
+                },
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "electorate": "Queensland",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100839,
+                "person": {
+                    "id": 10419
+                },
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "electorate": "Victoria",
+                "party": "DPRES"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100301,
+                "person": {
+                    "id": 10766
+                },
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "electorate": "NSW",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100129,
+                "person": {
+                    "id": 10398
+                },
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "electorate": "ACT",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100145,
+                "person": {
+                    "id": 10433
+                },
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "electorate": "SA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100140,
+                "person": {
+                    "id": 10423
+                },
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "electorate": "Queensland",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100130,
+                "person": {
+                    "id": 10401
+                },
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "electorate": "Queensland",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100128,
+                "person": {
+                    "id": 10397
+                },
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100083,
+                "person": {
+                    "id": 10224
+                },
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100053,
+                "person": {
+                    "id": 10142
+                },
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100036,
+                "person": {
+                    "id": 10103
+                },
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100031,
+                "person": {
+                    "id": 10085
+                },
+                "first_name": "David",
+                "last_name": "Bushby",
+                "electorate": "Tasmania",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100152,
+                "person": {
+                    "id": 10447
+                },
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100159,
+                "person": {
+                    "id": 10463
+                },
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100288,
+                "person": {
+                    "id": 10757
+                },
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "electorate": "SA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100287,
+                "person": {
+                    "id": 10215
+                },
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100286,
+                "person": {
+                    "id": 10756
+                },
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100261,
+                "person": {
+                    "id": 10716
+                },
+                "first_name": "John",
+                "last_name": "Williams",
+                "electorate": "NSW",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100252,
+                "person": {
+                    "id": 10707
+                },
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100251,
+                "person": {
+                    "id": 10706
+                },
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100250,
+                "person": {
+                    "id": 10705
+                },
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100164,
+                "person": {
+                    "id": 10478
+                },
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "electorate": "NSW",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100013,
+                "person": {
+                    "id": 10038
+                },
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        }
+    ],
+    "policy_divisions": [
+        {
+            "policy": {
+                "id": 123,
+                "name": "public transport",
+                "description": "the federal government should increase funding for public transport within and between Australia's major urban centres and prioritise it over funding for private transport infrastructure projects",
+                "provisional": false
+            },
+            "vote": "aye",
+            "strong": true
+        }
+    ],
+    "bills": []
+}

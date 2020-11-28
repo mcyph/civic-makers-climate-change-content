@@ -1,0 +1,536 @@
+{
+    "id": 2293,
+    "house": "senate",
+    "name": "Motions - Marine Conservation - Moratorium on issuing oil and gas leases",
+    "date": "2012-03-22",
+    "number": 11,
+    "clock_time": "1:50 PM",
+    "aye_votes": 9,
+    "no_votes": 30,
+    "possible_turnout": 76,
+    "rebellions": 0,
+    "edited": true,
+    "summary": "The majority voted against a [motion](http://www.openaustralia.org/senate/?id=2012-03-22.73.1) introduced by Greens Senator [Penny Wright](http://publicwhip-rails.openaustraliafoundation.org.au/mp.php?mpn=Penny_Wright&mpc=Senate&house=senate), which was:\n\n_That the Senate-_\n\n_(a)   notes that:_\n\n_(i)   up to 90 per cent of marine life within the [Great Australian Bight](http://en.wikipedia.org/wiki/Great_Australian_Bight) is found nowhere else on Earth,_\n\n_(ii)   the Great Australian Bight is an important feeding and migration area to approximately 30 species of whales and dolphins, including [sperm whales](http://en.wikipedia.org/wiki/Sperm_whales), [beaked whales](http://en.wikipedia.org/wiki/Beaked_whales), [southern right whales](http://en.wikipedia.org/wiki/Southern_Right_Whales) and the critically endangered [blue whale](http://en.wikipedia.org/wiki/Blue_whale), and_\n\n_(iii)   less than 1 per cent of this area is protected from oil and gas operations;_\n\n_(b)   recognises that:_\n\n_(i)   over the past 3 years, the Government has progressively opened up more areas in the Great Australian Bight to oil and gas exploration,_\n\n_(ii)    [BP](http://en.wikipedia.org/wiki/BP) holds four oil and gas exploration leases in the Great Australian Bight, the boundaries of which overlap with the [Great Australian Bight Marine Park](http://en.wikipedia.org/wiki/Great_Australian_Bight_Marine_Park),_\n\n_(iii)   BP is currently conducting [seismic testing](http://en.wikipedia.org/wiki/Reflection_seismology) in [marine park](http://en.wikipedia.org/wiki/Marine_park) areas to explore for oil and gas, and such testing is moving into known whale feeding regions,_\n\n_(iv)   grave concerns have been expressed by a number of environmental groups about the risks associated with seismic testing occurring too close to whales, including organ and lung damage, hearing damage and haemorrhaging, which can result in death, and_\n\n_(v)   the Great Australia Bight is an iconic and globally significant area for marine life and its unique ecology and environment must be protected and preserved for the benefit of future generations; and_\n\n_(c)   calls on the Government to:_\n\n_(i)   prioritise the protection and preservation of marine life in the Great Australian Bight by creating a network of large marine sanctuaries,_(Read more about Commonwealth marine reserves [here](http://www.environment.gov.au/topics/marine/marine-reserves/overview).)\n\n_(ii)   impose a moratorium on the issuing of oil and gas leases in the Great Australian Bight until after final decisions have been made regarding the establishment of marine sanctuaries in the Great Australian Bight through the Commonwealth marine bioregional planning process, and_\n\n_(iii)   prohibit night-time seismic testing and require the mandatory use of passive acoustic technology when conducting such testing in the Great Australian Bight._\n\nReferences",
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100256,
+                "person": {
+                    "id": 10711
+                },
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "electorate": "SA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100027,
+                "person": {
+                    "id": 10696
+                },
+                "first_name": "Bob",
+                "last_name": "Brown",
+                "electorate": "Tasmania",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100258,
+                "person": {
+                    "id": 10713
+                },
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "electorate": "WA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100300,
+                "person": {
+                    "id": 10765
+                },
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "electorate": "SA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100298,
+                "person": {
+                    "id": 10764
+                },
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "electorate": "Queensland",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100208,
+                "person": {
+                    "id": 10584
+                },
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "electorate": "WA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100285,
+                "person": {
+                    "id": 10755
+                },
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "electorate": "Victoria",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100156,
+                "person": {
+                    "id": 10458
+                },
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "electorate": "Tasmania",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100293,
+                "person": {
+                    "id": 10760
+                },
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "electorate": "NSW",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100277,
+                "person": {
+                    "id": 10309
+                },
+                "first_name": "John",
+                "last_name": "Hogg",
+                "electorate": "Queensland",
+                "party": "PRES"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100265,
+                "person": {
+                    "id": 10135
+                },
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100259,
+                "person": {
+                    "id": 10714
+                },
+                "first_name": "Louise",
+                "last_name": "Pratt",
+                "electorate": "WA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100286,
+                "person": {
+                    "id": 10756
+                },
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100288,
+                "person": {
+                    "id": 10757
+                },
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "electorate": "SA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100291,
+                "person": {
+                    "id": 10758
+                },
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "electorate": "Victoria",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100292,
+                "person": {
+                    "id": 10759
+                },
+                "first_name": "John",
+                "last_name": "Madigan",
+                "electorate": "Victoria",
+                "party": "Democratic Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100295,
+                "person": {
+                    "id": 10761
+                },
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100296,
+                "person": {
+                    "id": 10762
+                },
+                "first_name": "Matt",
+                "last_name": "Thistlethwaite",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100297,
+                "person": {
+                    "id": 10763
+                },
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100301,
+                "person": {
+                    "id": 10766
+                },
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "electorate": "NSW",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100014,
+                "person": {
+                    "id": 10044
+                },
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100257,
+                "person": {
+                    "id": 10712
+                },
+                "first_name": "Helen",
+                "last_name": "Kroger",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100254,
+                "person": {
+                    "id": 10709
+                },
+                "first_name": "David",
+                "last_name": "Feeney",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100036,
+                "person": {
+                    "id": 10103
+                },
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100061,
+                "person": {
+                    "id": 10161
+                },
+                "first_name": "Trish",
+                "last_name": "Crossin",
+                "electorate": "NT",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100083,
+                "person": {
+                    "id": 10224
+                },
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100114,
+                "person": {
+                    "id": 10350
+                },
+                "first_name": "Barnaby",
+                "last_name": "Joyce",
+                "electorate": "Queensland",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100129,
+                "person": {
+                    "id": 10398
+                },
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "electorate": "ACT",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100138,
+                "person": {
+                    "id": 10419
+                },
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "electorate": "Victoria",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100145,
+                "person": {
+                    "id": 10433
+                },
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "electorate": "SA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100159,
+                "person": {
+                    "id": 10463
+                },
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100164,
+                "person": {
+                    "id": 10478
+                },
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "electorate": "NSW",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100178,
+                "person": {
+                    "id": 10515
+                },
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100202,
+                "person": {
+                    "id": 10576
+                },
+                "first_name": "Nick",
+                "last_name": "Sherry",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100212,
+                "person": {
+                    "id": 10609
+                },
+                "first_name": "Ursula",
+                "last_name": "Stephens",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100213,
+                "person": {
+                    "id": 10610
+                },
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "electorate": "WA",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100250,
+                "person": {
+                    "id": 10705
+                },
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100251,
+                "person": {
+                    "id": 10706
+                },
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100840,
+                "person": {
+                    "id": 10507
+                },
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "electorate": "Tasmania",
+                "party": "DPRES"
+            }
+        }
+    ],
+    "policy_divisions": [
+        {
+            "policy": {
+                "id": 17,
+                "name": "increasing marine conservation",
+                "description": "the federal government should introduce legislation and regulations that protect and conserve Australia's marine ecosystems such as the Great Barrier Reef",
+                "provisional": false
+            },
+            "vote": "aye",
+            "strong": true
+        }
+    ],
+    "bills": []
+}

@@ -1,0 +1,634 @@
+{
+    "id": 6413,
+    "house": "senate",
+    "name": "Motions - Mining - Transition to renewables",
+    "date": "2020-06-16",
+    "number": 9,
+    "clock_time": "4:50 PM",
+    "aye_votes": 9,
+    "no_votes": 36,
+    "possible_turnout": 76,
+    "rebellions": 0,
+    "edited": true,
+    "summary": "The majority voted against a [motion](https://www.openaustralia.org.au/senate/?id=2020-06-16.132.1) introduced by Queensland Senator [Larissa Waters](https://theyvoteforyou.org.au/people/senate/queensland/larissa_waters) (Greens), which means it failed.\r\n\r\n### Motion text\r\n\r\n> *That the Senate—*\r\n>\r\n> *(a) notes that:*\r\n>\r\n>> *(i) since the Sydney Morning Herald and The Agereported on 11 June 2020 that international insurance companies Liberty Mutual, HDI-Talanx and Aspen Re were underwriting work on Adani's Carmichael coal mine, Liberty Mutual and HDI-Talanx have publicly stated that they will not provide future policies to the Adani Carmichael project, and Aspen Re is 'reviewing its underwriting appetite for fossil fuels',*\r\n>>\r\n>> *(ii) existing coverage extends to early work only and Adani has still not secured insurance for the complete construction and operation of the Carmichael mine,*\r\n>>\r\n>> *(iii) many major companies have refused to be involved in any part of the climate-wrecking project, including:*\r\n>>\r\n>>> *(A) at least sixteen global insurers, and*\r\n>>>\r\n>>> *(B) at least sixty-five major insurance, construction, engineering, finance and haulage companies, and*\r\n>>\r\n>> *(iv) in the ten years since this mine was announced, the Adani group has:*\r\n>>\r\n>>> *(A) misrepresented the number of jobs the Carmichael mine would create,*\r\n>>>\r\n>>> *(B) illegally released contaminated water into protected wetlands and the Great Barrier Reef World Heritage area, and*\r\n>>>\r\n>>> *(C) been criminally convicted in relation to giving false and misleading information to the Queensland regulator in relation to unlawful clearing activities; and*\r\n>\r\n> *(b) calls on the Federal Government to:*\r\n>\r\n>> *(i) recognise that the Adani Carmichael coal mine project is unviable and withdraw its support for the project,*\r\n>>\r\n>> *(ii) ban all new thermal coal mining in the Galilee Basin and plan a just transition for workers in existing coal mines, and*\r\n>>\r\n>> *(iii) invest in renewable energy projects that will actually create jobs without turbo-charging the climate crisis.*",
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100285,
+                "person": {
+                    "id": 10755
+                },
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "electorate": "Victoria",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100836,
+                "person": {
+                    "id": 10836
+                },
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "electorate": "Victoria",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100895,
+                "person": {
+                    "id": 10903
+                },
+                "first_name": "Rex",
+                "last_name": "Patrick",
+                "electorate": "SA",
+                "party": "Centre Alliance"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100305,
+                "person": {
+                    "id": 10780
+                },
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "electorate": "Tasmania",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100256,
+                "person": {
+                    "id": 10711
+                },
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "electorate": "SA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100847,
+                "person": {
+                    "id": 10841
+                },
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "electorate": "Tasmania",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100884,
+                "person": {
+                    "id": 10764
+                },
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "electorate": "Queensland",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100208,
+                "person": {
+                    "id": 10584
+                },
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "electorate": "WA",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "id": 100883,
+                "person": {
+                    "id": 10912
+                },
+                "first_name": "Mehreen",
+                "last_name": "Faruqi",
+                "electorate": "NSW",
+                "party": "Australian Greens"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100909,
+                "person": {
+                    "id": 10943
+                },
+                "first_name": "Hollie",
+                "last_name": "Hughes",
+                "electorate": "NSW",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100907,
+                "person": {
+                    "id": 10838
+                },
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "electorate": "ACT",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100906,
+                "person": {
+                    "id": 10947
+                },
+                "first_name": "Perin",
+                "last_name": "Davey",
+                "electorate": "NSW",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100905,
+                "person": {
+                    "id": 10955
+                },
+                "first_name": "Claire",
+                "last_name": "Chandler",
+                "electorate": "Tasmania",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100904,
+                "person": {
+                    "id": 10945
+                },
+                "first_name": "Andrew",
+                "last_name": "Bragg",
+                "electorate": "NSW",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100902,
+                "person": {
+                    "id": 10954
+                },
+                "first_name": "Alex",
+                "last_name": "Antic",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100899,
+                "person": {
+                    "id": 10914
+                },
+                "first_name": "Wendy",
+                "last_name": "Askew",
+                "electorate": "Tasmania",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100910,
+                "person": {
+                    "id": 10830
+                },
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "electorate": "Tasmania",
+                "party": "Jacqui Lambie Network"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100923,
+                "person": {
+                    "id": 10959
+                },
+                "first_name": "Andrew",
+                "last_name": "McLachlan",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100922,
+                "person": {
+                    "id": 10904
+                },
+                "first_name": "Jim",
+                "last_name": "Molan",
+                "electorate": "NSW",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100921,
+                "person": {
+                    "id": 10790
+                },
+                "first_name": "Sarah",
+                "last_name": "Henderson",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100919,
+                "person": {
+                    "id": 10957
+                },
+                "first_name": "David",
+                "last_name": "Van",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100916,
+                "person": {
+                    "id": 10949
+                },
+                "first_name": "Paul",
+                "last_name": "Scarr",
+                "electorate": "Queensland",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100915,
+                "person": {
+                    "id": 10856
+                },
+                "first_name": "Malcolm",
+                "last_name": "Roberts",
+                "electorate": "Queensland",
+                "party": "Pauline Hanson's One Nation Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100914,
+                "person": {
+                    "id": 10952
+                },
+                "first_name": "Gerard",
+                "last_name": "Rennick",
+                "electorate": "Queensland",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100913,
+                "person": {
+                    "id": 10958
+                },
+                "first_name": "Matt",
+                "last_name": "O'Sullivan",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100911,
+                "person": {
+                    "id": 10951
+                },
+                "first_name": "Susan",
+                "last_name": "McDonald",
+                "electorate": "Queensland",
+                "party": "National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100851,
+                "person": {
+                    "id": 10847
+                },
+                "first_name": "Jonathon",
+                "last_name": "Duniam",
+                "electorate": "Tasmania",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100890,
+                "person": {
+                    "id": 10908
+                },
+                "first_name": "Amanda",
+                "last_name": "Stoker",
+                "electorate": "Queensland",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100082,
+                "person": {
+                    "id": 10222
+                },
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "electorate": "NSW",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100014,
+                "person": {
+                    "id": 10044
+                },
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100297,
+                "person": {
+                    "id": 10763
+                },
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100303,
+                "person": {
+                    "id": 10768
+                },
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100306,
+                "person": {
+                    "id": 10781
+                },
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "electorate": "SA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100311,
+                "person": {
+                    "id": 10822
+                },
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "electorate": "ACT",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100312,
+                "person": {
+                    "id": 10747
+                },
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "electorate": "NSW",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100827,
+                "person": {
+                    "id": 10827
+                },
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "electorate": "Queensland",
+                "party": "Liberal National Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100835,
+                "person": {
+                    "id": 10835
+                },
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100849,
+                "person": {
+                    "id": 10845
+                },
+                "first_name": "James",
+                "last_name": "Paterson",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100853,
+                "person": {
+                    "id": 10849
+                },
+                "first_name": "Anthony",
+                "last_name": "Chisholm",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100857,
+                "person": {
+                    "id": 10280
+                },
+                "first_name": "Pauline",
+                "last_name": "Hanson",
+                "electorate": "Queensland",
+                "party": "Pauline Hanson's One Nation Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100859,
+                "person": {
+                    "id": 10853
+                },
+                "first_name": "Jane",
+                "last_name": "Hume",
+                "electorate": "Victoria",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100864,
+                "person": {
+                    "id": 10857
+                },
+                "first_name": "Murray",
+                "last_name": "Watt",
+                "electorate": "Queensland",
+                "party": "Australian Labor Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100877,
+                "person": {
+                    "id": 10715
+                },
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "electorate": "Victoria",
+                "party": "PRES"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100880,
+                "person": {
+                    "id": 10131
+                },
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "electorate": "Tasmania",
+                "party": "Liberal Party"
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "id": 100057,
+                "person": {
+                    "id": 10148
+                },
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "electorate": "WA",
+                "party": "Liberal Party"
+            }
+        }
+    ],
+    "policy_divisions": [
+        {
+            "policy": {
+                "id": 20,
+                "name": "increasing investment in renewable energy",
+                "description": "the federal government should increase investment in renewable energy technologies",
+                "provisional": false
+            },
+            "vote": "aye",
+            "strong": false
+        },
+        {
+            "policy": {
+                "id": 91,
+                "name": "a fast transition from fossil fuels to renewable energy",
+                "description": "in light of the threat of climate change, the federal government should make as rapid a transition to renewable energy as possible",
+                "provisional": false
+            },
+            "vote": "aye",
+            "strong": false
+        },
+        {
+            "policy": {
+                "id": 162,
+                "name": "Adani's proposed Carmichael coal mine in the Galilee Basin",
+                "description": "the federal government should support the Adani Group's plans to build the Carmichael mine in Queensland's Galilee Basin",
+                "provisional": false
+            },
+            "vote": "no",
+            "strong": false
+        }
+    ],
+    "bills": []
+}

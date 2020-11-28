@@ -1,0 +1,95 @@
+{
+    "id": 1764,
+    "house": "senate",
+    "name": "Carbon Pollution Reduction Scheme Bill 2009 [No. 2] and related bills - Second Reading - Refer to committee",
+    "date": "2009-11-25",
+    "number": 4,
+    "clock_time": "12:35 PM",
+    "aye_votes": 0,
+    "no_votes": 0,
+    "possible_turnout": 76,
+    "rebellions": 0,
+    "edited": true,
+    "summary": "The majority voted against a [motion](http://www.openaustralia.org/senate/?gid=2009-11-25.23.1) introduced by Senator [Rachel Siewert](http://publicwhip-rails.openaustraliafoundation.org.au/mp.php?mpn=Rachel_Siewert&mpc=Senate&house=senate).\n\nIt would have amended the [original motion](http://www.openaustralia.org/senate/?gid=2009-11-18.3.3) \"That these bills be now read a second time\" with the following:\n\n_At the end of the motion, add “and that:_\n\n_(a) the bills, the multi-billion dollar adjustment to the bills, as agreed by the Coalition and the Government in November 2009, and the amendments required to implement that agreement, be referred to the [Economics Legislation Committee](http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Economics) for inquiry and report by 12.30pm on 1 December 2009;_\n\n_(b) the Minister representing the Treasurer provide to that committee by 30 November 2009, for consideration as part of that inquiry, any modelling or analysis commissioned by Treasury and/or the [Department of Climate Change](http://en.wikipedia.org/wiki/Department_of_Climate_Change) and all documents prepared by [Treasury](http://en.wikipedia.org/wiki/Department_of_the_Treasury_%28Australia%29) in relation to the August 2009 Frontier Economics report on the economic impact of the Carbon Pollution Reduction Scheme;_(Read that report [here](http://www.frontier-economics.com/_library/publications/Frontier%20Economics%20CPRS%20report.pdf) (1.6 MB) )\n\n_(c) the Senate meet from 1 December to 3 December 2009 to consider the bills;_\n\n_(d) further consideration of the bills be an order of the day for the day the committee presents its report”._\n\nBackground to the bills\n\nThe [Carbon Pollution Reduction Scheme Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4221) was introduced as part of a package of six bills along with five other related bills to introduce the [Carbon Pollution Reduction Scheme](http://en.wikipedia.org/wiki/Carbon_Pollution_Reduction_Scheme). They reflect the [Carbon Pollution Reduction Scheme Bill 2009](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbillhome%2Fr4127%22) and its related acts, as amended in the House of Representatives before it was negated in the Senate.(See that division [here](http://publicwhip-rails.openaustraliafoundation.org.au/division.php?date=2009-08-13&number=4&dmp=7&house=senate). )\n\nThe scheme is an [emission trading scheme](http://en.wikipedia.org/wiki/Emissions_trading) designed to reduce emissions of carbon dioxide and other [greenhouse gases](http://en.wikipedia.org/wiki/Greenhouse_gas) in an effort to address [climate change](http://en.wikipedia.org/wiki/Climate_chnage). It gives effect to Australia's obligations under the [United Nations Framework Convention on Climate Change](http://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change) and the [Kyoto Protocol](http://en.wikipedia.org/wiki/Kyoto_Protocol).\n\nThe design of the scheme has been criticised by the business community for threatening jobs and by environmentalists for not going far enough with its emission reduction targets.(Read more about these criticisms [here](http://en.wikipedia.org/wiki/Carbon_Pollution_Reduction_Scheme#Criticism).)\n\nThe six bills that were introduced as a package are called:\n\n- the [Carbon Pollution Reduction Scheme Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4221)\n- the [Carbon Pollution Reduction Scheme (Consequential Amendments) Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4215)\n- the [Australian Climate Change Regulatory Authority Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4213)\n- the [Carbon Pollution Reduction Scheme (Charges-Customs) Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4218)\n- the [Carbon Pollution Reduction Scheme (Charges-Excise) Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4219)\n- the [Carbon Pollution Reduction Scheme (Charges-General) Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4216)\n\nThe five other related bills are called:\n\n- the [Carbon Pollution Reduction Scheme (CPRS Fuel Credits) Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4220)\n- the [Carbon Pollution Reduction Scheme (CPRS Fuel Credits) (Consequential Amendments) Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4220)\n- the [Excise Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 (No. 2)](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbillhome%2Fr4217%22)\n- the [Customs Tariff Amendment (Carbon Pollution Reduction Scheme) Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4214)\n- the [Carbon Pollution Reduction Scheme Amendment (Household Assistance) Bill 2009 (No. 2)](http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4223)\n\nReferences",
+    "votes": [],
+    "policy_divisions": [
+        {
+            "policy": {
+                "id": 7,
+                "name": "the Carbon Pollution Reduction Scheme",
+                "description": "the federal government should introduce the Carbon Pollution Reduction Scheme, which is a cap-and-trade system of emissions trading introduced by the Rudd Labor Government",
+                "provisional": false
+            },
+            "vote": "no",
+            "strong": false
+        }
+    ],
+    "bills": [
+        {
+            "id": 276,
+            "official_id": "R4221",
+            "title": "CARBON POLLUTION REDUCTION SCHEME BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4221"
+        },
+        {
+            "id": 277,
+            "official_id": "R4215",
+            "title": "CARBON POLLUTION REDUCTION SCHEME (CONSEQUENTIAL AMENDMENTS) BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4215"
+        },
+        {
+            "id": 278,
+            "official_id": "R4213",
+            "title": "AUSTRALIAN CLIMATE CHANGE REGULATORY AUTHORITY BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4213"
+        },
+        {
+            "id": 279,
+            "official_id": "R4218",
+            "title": "CARBON POLLUTION REDUCTION SCHEME (CHARGES—CUSTOMS) BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4218"
+        },
+        {
+            "id": 280,
+            "official_id": "R4219",
+            "title": "CARBON POLLUTION REDUCTION SCHEME (CHARGES—EXCISE) BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4219"
+        },
+        {
+            "id": 281,
+            "official_id": "R4216",
+            "title": "CARBON POLLUTION REDUCTION SCHEME (CHARGES—GENERAL) BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4216"
+        },
+        {
+            "id": 282,
+            "official_id": "R4222",
+            "title": "CARBON POLLUTION REDUCTION SCHEME (CPRS FUEL CREDITS) BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4222"
+        },
+        {
+            "id": 283,
+            "official_id": "R4220",
+            "title": "CARBON POLLUTION REDUCTION SCHEME (CPRS FUEL CREDITS) (CONSEQUENTIAL AMENDMENTS) BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4220"
+        },
+        {
+            "id": 284,
+            "official_id": "R4217",
+            "title": "EXCISE TARIFF AMENDMENT (CARBON POLLUTION REDUCTION SCHEME) BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4217"
+        },
+        {
+            "id": 285,
+            "official_id": "R4214",
+            "title": "CUSTOMS TARIFF AMENDMENT (CARBON POLLUTION REDUCTION SCHEME) BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4214"
+        },
+        {
+            "id": 286,
+            "official_id": "R4223",
+            "title": "CARBON POLLUTION REDUCTION SCHEME AMENDMENT (HOUSEHOLD ASSISTANCE) BILL 2009 [NO. 2]",
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4223"
+        }
+    ]
+}
